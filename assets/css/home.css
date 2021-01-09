@@ -1,0 +1,29 @@
+#home-container {
+  display: flex; }
+  #home-container #feed-posts {
+    width: 70%;
+    padding: 10px;
+    background-color: gold; }
+  #home-container #user-friends {
+    width: 30%;
+    padding: 10px;
+    border-left: 1px solid lightgrey;
+    height: 100vh;
+    background-color: rgba(68, 236, 76, 0.747);
+    padding-left: 40px;
+    font-size: larger; }
+    #home-container #user-friends p {
+      margin-top: 10px;
+      border: 1px solid black;
+      background-color: #ed4634;
+      color: white;
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center; }
+
+.post-box {
+  border: 3px solid black;
+  border-radius: 8px;
+  margin-top: 20px;
+  background-color: orange;
+  padding: 10px; }

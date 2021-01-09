@@ -1,0 +1,73 @@
+#layout-header{
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 0 10px;
+        background: black;
+        color: white;
+        box-shadow: 1px 1px 1px 1px lightgrey;
+        height:100px;
+
+        .mini-logo{
+            p{
+                margin: 5px;
+                font-size: 3em;
+                font-weight: bold;
+            
+                img{
+                    color:white;
+                    height:90px;
+                    width:100px;
+                    padding:2px;
+                }
+            }
+        }
+
+        .auth-links{
+            ul{
+                margin: 5% 5px;
+                display: flex;
+                list-style: none;
+                li{
+                    margin-right: 10px;
+                }
+            }
+        }
+
+        a{
+           
+            text-decoration: none;
+        }
+
+    }
+}
+
+#logo-head{
+margin-top: -80px;
+display: block;
+margin-left: 100px;
+color:#ED4634;
+font-family: 'Poppins', sans-serif;
+
+
+}
+
+.auth-links{
+
+    li{
+    font-size: 20px;
+    margin-top: 10px;
+    a{
+        color:white;
+        text-decoration: none;
+        background-color: #ED4634;
+        border-radius: 3px;
+        padding:5px;
+
+    }
+   
+
+    
+    }
+    
+    }
