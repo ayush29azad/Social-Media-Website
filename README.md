@@ -1,4 +1,4 @@
-# Facebook-Clone Major Poject ,Duration 25-30 days.
+# Social media Website ,Duration 25-30 days.
 This is a facebook like website with like comment ,post features and made using nodejs ,mongodb and express.
 This took me 30 days to complete.I used a lot of backend technology .There is also a sign in sign out pages created by passport js 
 and also google sign in sign out using  google oath.I also used Saaas and many npm libraries.
